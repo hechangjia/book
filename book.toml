@@ -1,0 +1,16 @@
+[book]
+authors = ["charlie"]
+language = "cn"
+src = "src"
+title = "小镇错题家"
+
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+smart-punctuation = true
+mathjax-support = true
+copy-fonts = true
+no-section-label = false
+git-repository-url = "https://github.com/rust-lang/mdBook"
+git-repository-icon = "fa-github"
