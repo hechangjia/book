@@ -21,10 +21,9 @@ tags:
 
 
 [hcj](./assets/videos/DrawFourierSoomth.mp4)
-
-      <video controls width="80%">
-        <source src="./assets/videos/DrawFourierSoomth.mp4" type="video/mp4">
-      </video>
+<video controls width="80%">
+<source src="./assets/videos/DrawFourierSoomth.mp4" type="video/mp4">
+</video>
 
 
 
