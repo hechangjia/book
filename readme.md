@@ -16,6 +16,12 @@ tags:
 
 
 
-[](https://raw.githubusercontent.com/hechangjia/Picture_Deposit/master/Win10/%E7%94%B7%E5%AD%A9.mp3)
+![Manim](./assets/images/Manim.png)
 
-[](https://raw.githubusercontent.com/hechangjia/Picture_Deposit/master/Win10/TimeShiftSystems.mp4)
+
+
+[hcj](./assets/videos/DrawFourierSoomth.mp4)
+
+
+
+[color](./assets/videos/NewColors.mp4)
