@@ -1,0 +1,21 @@
+---
+title: a brief introdution of the repo
+author: 贺昌嘉
+tags: 
+  - readme
+  - book
+---
+
+# 这是一份简短的Readme
+
+
+
+## 插入图片
+
+![Manim](https://raw.githubusercontent.com/hechangjia/Picture_Deposit/master/Win10/Manim-20250526134738-jc15m2n.png)
+
+
+
+![](https://raw.githubusercontent.com/hechangjia/Picture_Deposit/master/Win10/%E7%94%B7%E5%AD%A9.mp3)
+
+![](https://raw.githubusercontent.com/hechangjia/Picture_Deposit/master/Win10/TimeShiftSystems.mp4)
